@@ -24,7 +24,7 @@ The solutions in this repository are organized by Question number.
 
 ## Contributing
 
-If you have a better solution or a new LeetCode question to add, feel free to contribute! Please follow the contribution guidelines outlined in the `CONTRIBUTING.md` file.
+If you have a better solution or a new LeetCode question to add, feel free to contribute!
 
 ## License
 
