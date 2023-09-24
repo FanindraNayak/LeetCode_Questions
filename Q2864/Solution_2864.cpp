@@ -4,6 +4,11 @@
 
 using namespace std;
 
+/**
+ * Class to get the function max odd binary
+ * Todo: Describe the solution in detail
+ */
+
 class Solution
 {
 public:
